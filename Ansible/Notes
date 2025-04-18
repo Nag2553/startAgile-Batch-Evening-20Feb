@@ -229,6 +229,7 @@ Step 2:
 Generate ssh key on Master node for ansiuser
 Execute below command:
 # ssh-keygen
+# ssh-keygen -t rsa  #keygeneration in rsa formate
 
 press enter
 press enter
