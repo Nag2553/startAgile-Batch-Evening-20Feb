@@ -11,7 +11,11 @@ In docker swarm we will not setup external storage
 we work with single object service 
 we have deployment - constraint section
 Community verison has no front end 
-
+======================================================
+kubernetes API doc link
+=====================================================
+https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.31/#api-overview
+=====================================================
 Kubernetes: K8s
 It is an open source tool, which has be to be installed
 But is also available as a service on cloud platforms as EKS, GKE, AKS, DOKS
